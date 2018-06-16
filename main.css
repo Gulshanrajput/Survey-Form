@@ -1,18 +1,21 @@
 body{
-    background-color: aquamarine;
+    background-color: #b2dfdb;
     /*align all code to the center by text-align */
     text-align: center;
 
 }
 h1,h3{
-    text-align: center
+    text-align: center;
 }
 #form-outer{
-    background-color: rgb(200,200,200);
+    background-color: #b0bec5;
     width: 55%;
     margin-left: 550px;
     padding-top:20px;
     max-width: 800px;
     border-radius: 5px;
     padding: 20px;
+}
+img{
+    height:200px;
 }
